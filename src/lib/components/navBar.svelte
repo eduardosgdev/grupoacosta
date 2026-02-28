@@ -15,6 +15,7 @@
       <!-- Menu desktop -->
       <div class="hidden md:flex space-x-8">
         <div class="px-4 py-4 space-y-4">
+          <a href="/">Inicio</a>
           <a href="planes">Planes</a>
           <a href="contacto">Contacto</a>
           </div>
@@ -55,6 +56,7 @@
   {#if open}
     <div class="md:hidden bg-blue-800 border-t border-neutral-800">
       <div class="px-4 py-4 space-y-4 flex flex-col text-white">
+        <a href="/">Inicio</a>
         <a href="planes">Planes</a>
         <a href="contacto">Contacto</a>
       </div>
